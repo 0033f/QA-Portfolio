@@ -5,8 +5,8 @@ I have a programming background in C# and practical learning experience in manua
 
 Skills:
 
-Manual Testing: checklists, test cases, bug reports, regressiong testing, retesting, smoke testing
-API Testing: HHTP methods, status codes, JSON, basic API test scripts, Postman
+Manual Testing: checklists, test cases, bug reports, regression testing, retesting, smoke testing
+API Testing: HTTP methods, status codes, JSON, basic API test scripts, Postman
 Automation: C#, NUnit, Playwright
 SQL: SELECT, WHERE, ORDER BY, GROUP BY, JOIN, aggregate functions
 Version Control: Git, GitHub
