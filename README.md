@@ -1,8 +1,9 @@
 # QA Portfolio
 
-Hi! I'm an aspiring QA Engineer from Kazakhstan, looking for a QA Automation Trainee or Junior QA position.
+Hi, I'm an aspiring QA Engineer from Kazakhstan, looking for a QA Automation Trainee or Junior QA position.
 I have a programming background in C# and practical learning experience in manual testing, API testing, SQL, and test automation.
-Skills
+
+Skills:
 
 Manual Testing: checklists, test cases, bug reports, regressiong testing, retesting, smoke testing
 API Testing: HHTP methods, status codes, JSON, basic API test scripts, Postman
