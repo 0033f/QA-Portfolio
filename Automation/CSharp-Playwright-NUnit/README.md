@@ -43,6 +43,7 @@ dotnet restore
 Run the tests with the browser in headed mode:
 
 $env:HEADED="1"
+
 dotnet test
 
 
